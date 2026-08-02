@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Page configuration
 st.set_page_config(
-    page_title="AQI Prediction App",
+    page_title="AirSense AI: Air Quality Prediction & Health Risk Analytics",
     page_icon="🌍",
     layout="wide",
     initial_sidebar_state="expanded"
