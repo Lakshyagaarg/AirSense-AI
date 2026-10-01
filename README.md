@@ -1,4 +1,4 @@
-# AirAenseAI: Air Quality Index (AQI) Prediction
+# AirSenseAI: Air Quality Index (AQI) Prediction
 
 A machine learning-powered web application for predicting air quality based on pollutant concentrations.
 
